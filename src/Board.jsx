@@ -61,7 +61,7 @@ const Board = () => {
 					Note: Rows can be moved by : Click and hold row > Drag > Drop
 				</div>
 				<div>
-					"Download PDF" feature still in beat phase
+					"Download PDF" feature still in beta phase.
 				</div>
 
 				<Droppable droppableId={uuid()}>
